@@ -10,9 +10,9 @@ The game will end when the 60 seconds are up, and the player's final score will 
 # Code Overview
 The game code is written in JavaScript and is divided into three main parts:
 
-1 Setting up the game: This part of the code initializes the game variables and sets up the game timer using setInterval().
+***1 Setting up the game:*** This part of the code initializes the game variables and sets up the game timer using setInterval().
 
-2 Creating the random mole: This part of the code randomly selects a square where the mole will appear and moves the mole to that square.
+*2 Creating the random mole:* This part of the code randomly selects a square where the mole will appear and moves the mole to that square.
 
 3 Handling player clicks: This part of the code adds an event listener to each square to handle player clicks. If the player clicks on a square with a mole, their score is increased.
 
